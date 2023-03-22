@@ -4,7 +4,7 @@ include "links2.php";
 
 ?>
 
-        <title>information about ur cv</title>
+        <title>Formulaire CV</title>
 <?php
 include "header2.php";
 if(isset($_SESSION["id_candidat"])){
